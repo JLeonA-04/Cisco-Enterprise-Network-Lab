@@ -1,6 +1,8 @@
 # Cisco Enterprise Network Lab
 
 Enterprise-style Cisco Packet Tracer lab focused on VLAN segmentation, Inter-VLAN Routing, NAT, ACL Security and Layer 2 protections.
+> This lab was developed between February–May 2026 during my CCNA preparation.  
+> Published on GitHub on 12/05/2026 after obtaining the certification.
 
 ---
 
