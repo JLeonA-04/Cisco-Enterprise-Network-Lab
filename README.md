@@ -127,8 +127,7 @@ Access layer configuration with:
 
 # Author
 
-Jayro Leon
+Jayro Leon A.
 
-Cisco CCST Networking  
-Cisco CCST Cybersecurity  
-CCNA Path
+Cisco CCNA 200-301 Certified
+Cisco CCST Networking | Cisco CCST Cybersecurity
